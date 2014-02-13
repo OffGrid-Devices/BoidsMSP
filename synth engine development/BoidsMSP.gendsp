@@ -1054,10 +1054,10 @@
 			}
 , 			{
 				"patchline" : 				{
-					"destination" : [ "obj-53", 1 ],
+					"destination" : [ "obj-53", 2 ],
 					"disabled" : 0,
 					"hidden" : 0,
-					"midpoints" : [ 185.5, 498.0, 388.0, 498.0 ],
+					"midpoints" : [ 185.5, 498.0, 401.5, 498.0 ],
 					"source" : [ "obj-24", 0 ]
 				}
 
@@ -1251,10 +1251,10 @@
 			}
 , 			{
 				"patchline" : 				{
-					"destination" : [ "obj-53", 2 ],
+					"destination" : [ "obj-53", 1 ],
 					"disabled" : 0,
 					"hidden" : 0,
-					"midpoints" : [ 262.0, 489.0, 401.5, 489.0 ],
+					"midpoints" : [ 262.0, 489.0, 388.0, 489.0 ],
 					"source" : [ "obj-57", 0 ]
 				}
 
