@@ -115,13 +115,13 @@
 					"numoutlets" : 3,
 					"outlettype" : [ "", "", "" ],
 					"patching_rect" : [ 317.0, 50.0, 167.5, 29.0 ],
-					"restore" : [ 2073.355957 ],
+					"restore" : [ 6500.04541 ],
 					"saved_object_attributes" : 					{
 						"parameter_enable" : 0
 					}
 ,
 					"text" : "pattr @bindto parent::buffer-size @invisible 1 @autorestore 0",
-					"varname" : "u462002761"
+					"varname" : "u803011021"
 				}
 
 			}
@@ -149,10 +149,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 50.0, 195.0, 27.0, 18.0 ],
-					"saved_object_attributes" : 					{
-						"attr_comment" : ""
-					}
-,
 					"text" : "in 2"
 				}
 
@@ -238,10 +234,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 570.0, 25.0, 27.0, 18.0 ],
-					"saved_object_attributes" : 					{
-						"attr_comment" : ""
-					}
-,
 					"text" : "in 3"
 				}
 
@@ -291,7 +283,7 @@
 					"patching_rect" : [ 457.0, 168.0, 50.0, 18.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 150.0, 143.0, 50.0, 18.0 ],
-					"varname" : "vol"
+					"varname" : "amp"
 				}
 
 			}
@@ -668,10 +660,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 20.0, 15.0, 27.0, 18.0 ],
-					"saved_object_attributes" : 					{
-						"attr_comment" : ""
-					}
-,
 					"text" : "in 1"
 				}
 
