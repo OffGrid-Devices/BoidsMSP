@@ -49,7 +49,7 @@ function ondrag(x,y)
 	else if (y>height) y = height;
 
 	alpha = 1.- y/height;
-	outlet(0,alpha * 127);
+	outlet(0,alpha * 100);
 	notifyclients();
 	bang();
 }
@@ -57,13 +57,13 @@ ondrag.local = 1; //private
 
 function getvalueof() 
 {
-return alpha * 127;
+return alpha * 100;
 
 }
 
 function setvalueof(v)
 {
-	v = alpha * 127;
+	v = alpha * 100;
 }
 
 function value()
